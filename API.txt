@@ -1,0 +1,10 @@
+All your API endpoints are live
+URL	Description
+http://localhost:8000/	Welcome message (new)
+http://localhost:8000/docs	Swagger UI
+http://localhost:8000/redoc	ReDoc documentation
+http://localhost:8000/register	Create user
+http://localhost:8000/token	Login (JWT)
+http://localhost:8000/posts	CRUD for posts
+http://localhost:8000/posts/{id}/analyze	Async I/O demo
+http://localhost:8000/sdg	SDG 8 information
